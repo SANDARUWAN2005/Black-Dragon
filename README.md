@@ -1,4 +1,4 @@
-# Setup For Deployment 👇
+# Setup For Deployment 
 
 - FORK THE REPOSITORY [Here](https://github.com/nimaofficial/Black-Dragon/fork)
 
