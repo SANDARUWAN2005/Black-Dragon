@@ -33,7 +33,7 @@ git clone https://github.com/nimaofficial/Black-Dragon
 cd Black-Dragon
 npm start
 ```
-## `For Termux/Ssh/Ubuntu`
+## `For Termux/Ssh/Ubuntu` 
 ```bash
 apt update
 apt upgrade
